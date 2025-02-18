@@ -1,21 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\birka\\Desktop\\BookTrack\\",
+  "WorkspaceRootPath": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\entitylayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\DataLayer\\Migrations\\20250218092015_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataLayer\\Migrations\\20250218092015_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066A8400-E036-4B42-991C-CF59AF7AC55B}|DataLayer\\DataLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\datalayer\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066A8400-E036-4B42-991C-CF59AF7AC55B}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066A8400-E036-4B42-991C-CF59AF7AC55B}|DataLayer\\DataLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066A8400-E036-4B42-991C-CF59AF7AC55B}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|solutionrelative:ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\entitylayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\entitylayer\\readingprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\entitylayer\\readingprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\readingprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\entitylayer\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\entitylayer\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\entitylayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\entitylayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,10 +51,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250218092015_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\DataLayer\\Migrations\\20250218092015_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250218092015_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\DataLayer\\Migrations\\20250218092015_InitialCreate.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20250218092015_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:20:15.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\DataLayer\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\DataLayer\\DbContextFactory.cs",
+              "RelativeToolTip": "DataLayer\\DbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:19:44.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:02:08.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\appsettings.json",
+              "RelativeDocumentMoniker": "UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\appsettings.json",
+              "RelativeToolTip": "UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T08:57:09.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\DataLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\DataLayer\\AppDbContext.cs",
+              "RelativeToolTip": "DataLayer\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:53:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\Review.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\Review.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Review.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\Review.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\Review.cs",
               "RelativeToolTip": "EntityLayer\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +128,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ReadingProgress.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\ReadingProgress.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\ReadingProgress.cs",
               "RelativeDocumentMoniker": "EntityLayer\\ReadingProgress.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\ReadingProgress.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\ReadingProgress.cs",
               "RelativeToolTip": "EntityLayer\\ReadingProgress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\Book.cs",
               "RelativeDocumentMoniker": "EntityLayer\\Book.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\Book.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\Book.cs",
               "RelativeToolTip": "EntityLayer\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\User.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\User.cs",
               "RelativeDocumentMoniker": "EntityLayer\\User.cs",
-              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\EntityLayer\\User.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\User.cs",
               "RelativeToolTip": "EntityLayer\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
