@@ -12,3 +12,4 @@ C:\Users\birka\Desktop\BookTrack\BookTrack\BusinessLayer\obj\Debug\net8.0\refint
 C:\Users\birka\Desktop\BookTrack\BookTrack\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
 C:\Users\birka\Desktop\BookTrack\BookTrack\BusinessLayer\obj\Debug\net8.0\BusinessLayer.genruntimeconfig.cache
 C:\Users\birka\Desktop\BookTrack\BookTrack\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\birka\Desktop\BookTrack\BookTrack\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json

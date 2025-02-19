@@ -17,3 +17,4 @@ C:\Users\birka\Desktop\BookTrack\BookTrack\DataLayer\obj\Debug\net8.0\DataLayer.
 C:\Users\birka\Desktop\BookTrack\BookTrack\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
 C:\Users\birka\Desktop\BookTrack\BookTrack\DataLayer\bin\Debug\net8.0\BusinessLayer.dll
 C:\Users\birka\Desktop\BookTrack\BookTrack\DataLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\birka\Desktop\BookTrack\BookTrack\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json

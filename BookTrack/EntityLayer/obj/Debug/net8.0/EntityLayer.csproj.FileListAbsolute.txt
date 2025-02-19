@@ -12,3 +12,4 @@ C:\Users\birka\Desktop\BookTrack\BookTrack\EntityLayer\obj\Debug\net8.0\refint\E
 C:\Users\birka\Desktop\BookTrack\BookTrack\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\Users\birka\Desktop\BookTrack\BookTrack\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
 C:\Users\birka\Desktop\BookTrack\BookTrack\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\birka\Desktop\BookTrack\BookTrack\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json
