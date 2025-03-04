@@ -18,5 +18,21 @@ namespace UI.Controllers
             var books = _context.Books.ToList();
             return View(books);
         }
+
+        public IActionResult Details(int id)
+        {
+            var book = _context.Books
+                .Include(b => b.ReadingProgresses)
+                .Include(b => b.Reviews)
+                .FirstOrDefault(b => b.Id == id);
+
+            if (book == null)
+            {
+                return NotFound();
+            }
+
+            return View(book);
+
+        }
     }
 }

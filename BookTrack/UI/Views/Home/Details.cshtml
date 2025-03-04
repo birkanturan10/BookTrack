@@ -1,0 +1,20 @@
+﻿@model EntityLayer.Book
+
+@{
+    ViewData["Title"] = "Kitap Detayları";
+}
+
+<h2>@Model.Title</h2>
+<p><strong>Yazar:</strong>@Model.Author</p>
+<p><strong>Tür:</strong>@Model.Genre</p>
+<p><strong>Sayfa Sayısı:</strong>@Model.TotalPages</p>
+
+<h3>Yorumlar</h3>
+<ul>
+    @foreach (var review in Model.Reviews)
+    {
+        <li>@review.Comment - <em>review.User?.UserName</em></li>
+    }
+</ul>
+
+<a asp-action="Index">Geri Dön</a>

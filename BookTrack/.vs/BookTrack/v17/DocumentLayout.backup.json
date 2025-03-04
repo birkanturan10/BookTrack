@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\ui\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|solutionrelative:ui\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\entitylayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1480AA0A-1A5C-41A3-B1D5-793CCD881F69}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|c:\\users\\birka\\desktop\\booktrack\\booktrack\\ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6825FD-F711-4B6C-B1DE-C6917FCCC27F}|UI\\UI.csproj|solutionrelative:ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,25 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\Review.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Review.cs",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\EntityLayer\\Review.cs",
+              "RelativeToolTip": "EntityLayer\\Review.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:38:04.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "UI\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "UI\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T11:29:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "UI\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-19T13:37:26.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\birka\\Desktop\\BookTrack\\BookTrack\\UI\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UI\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T13:35:58.309Z",
               "EditorCaption": ""
